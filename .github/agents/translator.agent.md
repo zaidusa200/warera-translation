@@ -106,16 +106,16 @@ This repository contains translations in 16+ languages. **Always** consult exist
 
 When translating, prioritize cross-referencing languages in the same or a related family:
 
-| Target language | Best reference languages |
-|---|---|
-| Romance (fr, es, pt, it, ro) | Other Romance languages |
-| Slavic (pl, ru, uk, sr) | Other Slavic languages |
-| Germanic (de, nl) | Each other + English source |
-| Turkic (tr) | Any well-translated file for structure |
-| Arabic (ar) | Any well-translated file for meaning |
-| Baltic (lv) | Slavic languages for borrowed terms |
-| Chinese (zh-Hant-TW) | Any well-translated file for meaning |
-| Hungarian (hu) | Any well-translated file (language isolate) |
+| Target language              | Best reference languages                    |
+| ---------------------------- | ------------------------------------------- |
+| Romance (fr, es, pt, it, ro) | Other Romance languages                     |
+| Slavic (pl, ru, uk, sr)      | Other Slavic languages                      |
+| Germanic (de, nl)            | Each other + English source                 |
+| Turkic (tr)                  | Any well-translated file for structure      |
+| Arabic (ar)                  | Any well-translated file for meaning        |
+| Baltic (lv)                  | Slavic languages for borrowed terms         |
+| Chinese (zh-Hant-TW)         | Any well-translated file for meaning        |
+| Hungarian (hu)               | Any well-translated file (language isolate) |
 
 ### How to cross-reference efficiently
 
