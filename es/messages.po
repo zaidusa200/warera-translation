@@ -3435,7 +3435,7 @@ msgstr "Últimos regalos"
 #: src/components/_user/auth/ConnectFromModal.tsx:317
 #: src/components/_user/auth/ConnectFromModal.tsx:336
 msgid "Last used"
-msgstr ""
+msgstr "Último uso"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:192
 msgid "Last used:"
